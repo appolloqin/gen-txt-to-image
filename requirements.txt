@@ -1,0 +1,7 @@
+docx2txt==0.8
+erniebot==0.5.0
+flask == 2.3.2
+gradio==3.28.0
+sentence_transformers==2.2.2
+Pillow==9.5.0
+#python=3.10
