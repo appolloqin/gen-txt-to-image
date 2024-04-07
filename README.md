@@ -12,6 +12,6 @@ pip install -r requirements.txt
 执行成功后会在output/image下生成图片。
 会在output/video下生成视频。
 # 其他说明
-使用文心一言，生成prompt，使用stable diffusion生成图片，使用opencv合成视频。
-其他大模型需要自定义开发。需要申请文心一言token,申请地址[地址](https://aistudio.baidu.com/index/accessToken)
+使用文心一言，生成prompt，使用stable diffusion生成图片，使用opencv合成视频。<br>
+其他大模型需要自定义开发。需要申请文心一言token,申请地址[地址](https://aistudio.baidu.com/index/accessToken)<br>
 需要在本地部署stable diffusion webui [地址](https://github.com/AUTOMATIC1111/stable-diffusion-webui) 端口7860
