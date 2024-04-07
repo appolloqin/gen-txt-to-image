@@ -5,7 +5,7 @@ conda create -n image python=3.10 或者其他方式安装（conda安装请自�
 # 2.安装依赖包
 pip install -r requirements.txt
 # 3.安装成功后，运行项目
-项目根目录下windows  dos进入项目更目录。执行命令python main.py
+项目根目录下windows  dos进入项目根目录。执行命令python main.py
 # 成果展示 
 [视频](https://github.com/appolloqin/gen-txt-to-image/output/video/threeyear.mp4)
 # 说明
